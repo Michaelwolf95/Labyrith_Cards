@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Warp_Crystal.png",
@@ -27,6 +28,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Teleport to a room that's exactly 2 spaces away.\n\n<i>(</i>"
@@ -34,6 +36,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Crystal"
@@ -41,6 +44,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Warp Crystal"
@@ -59,6 +63,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Pitfall.png",
@@ -72,6 +77,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Discard a card\n-OR-\nLose 1 HP\n\nDraw another {encounter}."
@@ -79,6 +85,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Trap"
@@ -86,6 +93,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Pitfall"
@@ -104,6 +112,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Tentacle.png",
@@ -117,6 +126,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "You are pulled into this room.\nYou cannot move for the rest of this turn.\n\nDraw another {encounter}."
@@ -124,6 +134,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Trap"
@@ -131,6 +142,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Tentacle"
@@ -149,6 +161,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Gust_of_Wind.png",
@@ -162,6 +175,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Pushes you back through  your current room's entrance ({entrance}).\nDoes nothing if the entrance is blocked.\n\nDraw another {encounter}."
@@ -169,6 +183,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Trap"
@@ -176,6 +191,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gust of Wind"
@@ -194,6 +210,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Shifting_Walls_R.png",
@@ -207,6 +224,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Rotate your current room clockwise by one turn (60°).\n\nDraw another {encounter}."
@@ -214,6 +232,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Trap"
@@ -221,6 +240,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Shifting Walls R"
@@ -239,6 +259,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Shifting_Walls_L.png",
@@ -252,6 +273,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Rotate your current room counter-clockwise by one turn (60°).\nDraw another {encounter}."
@@ -259,6 +281,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Trap"
@@ -266,6 +289,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Shifting Walls L"
@@ -284,6 +308,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Poison_Gas.png",
@@ -297,6 +322,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Place a {poison} token in this room. Players who end their turn in this room lose -1 HP {HP}.\n\nDraw another {encounter}."
@@ -304,6 +330,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Trap"
@@ -311,6 +338,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Poison Gas"
@@ -329,6 +357,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Land_Mine.png",
@@ -342,6 +371,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Place a {bomb} token in this room. The next time a player enters this room, they lose -3 HP {HP}, and the {bomb} is removed.\n\nDraw another {encounter}."
@@ -349,6 +379,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Trap"
@@ -356,6 +387,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Land Mine"
@@ -374,6 +406,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Fateful_Fall.png",
@@ -387,6 +420,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "If you have more than 5 cards, discard cards until you have 5.\n\nDraw another {encounter}."
@@ -394,6 +428,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Trap"
@@ -401,6 +436,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Fateful Fall"
@@ -419,6 +455,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Black_Hole.png",
@@ -432,6 +469,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Move ALL players to the start room."
@@ -439,6 +477,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Event"
@@ -446,6 +485,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Black Hole"
@@ -464,6 +504,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Trash_Friend.png",
@@ -477,6 +518,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Take any 2 loot cards from the discard pile."
@@ -484,6 +526,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Event"
@@ -491,6 +534,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Trash Friend"
@@ -509,6 +553,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Justice.png",
@@ -522,6 +567,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "The player with the fewest cards in their hand steals 2 random cards from the player with the most.\n\nDraw another {encounter}."
@@ -529,6 +575,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Event"
@@ -536,6 +583,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Justice"
@@ -554,6 +602,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/The_Fool.png",
@@ -567,6 +616,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Return to the start room, and get 2 {loot}."
@@ -574,6 +624,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Event"
@@ -581,6 +632,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "The Fool"
@@ -599,6 +651,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/The_Chariot.png",
@@ -612,6 +665,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Choose a room. Move directly to it."
@@ -619,6 +673,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Event"
@@ -626,6 +681,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "The Chariot"

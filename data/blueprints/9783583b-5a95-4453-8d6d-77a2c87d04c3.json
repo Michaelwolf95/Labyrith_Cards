@@ -86,7 +86,7 @@
           "anchor_max_render": "1, 0.427076",
           "type": "none",
           "data": {},
-          "sort_mode": "3",
+          "sort_mode": "2",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -113,7 +113,7 @@
             "offset": "0, 0",
             "tint": "#E1E1E1FF"
           },
-          "sort_mode": "5",
+          "sort_mode": "4",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -133,7 +133,7 @@
           "anchor_max_render": "1, 0.9999999",
           "type": "none",
           "data": {},
-          "sort_mode": "7",
+          "sort_mode": "5",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -161,7 +161,7 @@
           "anchor_max_render": "1, 0.3677043",
           "type": "none",
           "data": {},
-          "sort_mode": "2",
+          "sort_mode": "3",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -181,7 +181,7 @@
           "anchor_max_render": "1, 0.427076",
           "type": "none",
           "data": {},
-          "sort_mode": "4",
+          "sort_mode": "6",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -208,7 +208,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "6",
+          "sort_mode": "7",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -333,7 +333,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "12",
+          "sort_mode": "11",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -421,7 +421,7 @@
             "offset": "0, 0",
             "tint": "#FFFFFFFF"
           },
-          "sort_mode": "11",
+          "sort_mode": "12",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

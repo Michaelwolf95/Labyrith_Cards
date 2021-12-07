@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Skeleton.png",
@@ -27,6 +28,7 @@
           "panels": [
             {
               "blueprint_panel_id": "5318aaa1-371d-4909-94d6-5d9ab00ef90b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "fit_mode": "fitheight"
@@ -39,6 +41,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<i>*Angry bone rattling noises*</i>"
@@ -46,6 +49,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2 {loot}"
@@ -53,6 +57,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 1 Monster"
@@ -60,6 +65,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+0"
@@ -67,6 +73,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Skeleton"
@@ -74,6 +81,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4"
@@ -81,6 +89,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1"
@@ -99,6 +108,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Cool_Skeleton.png",
@@ -112,6 +122,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<i>*Cool bone rattling noises*</i>"
@@ -119,6 +130,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3 {loot}"
@@ -126,6 +138,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 1 Monster"
@@ -133,6 +146,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+0"
@@ -140,6 +154,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Cool Skeleton"
@@ -147,6 +162,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Cool Skeleton"
@@ -154,6 +170,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4"
@@ -161,6 +178,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1"
@@ -179,6 +197,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Injured_Wretch.png",
@@ -192,6 +211,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Does not attack.\n<i>Barter</i> - Trade a Health Potion for 2 {loot}.\n\n(Leaves the dungeon after trading.)"
@@ -199,6 +219,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<i>Nothing</i>"
@@ -206,6 +227,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 1 Monster"
@@ -213,6 +235,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+0"
@@ -220,6 +243,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Injured Wretch"
@@ -227,6 +251,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Injured Wretch"
@@ -234,6 +259,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1"
@@ -241,6 +267,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1"
@@ -259,6 +286,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Undead_Archer.png",
@@ -272,6 +300,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Attacks players who leave it's current room."
@@ -279,6 +308,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3 {loot}"
@@ -286,6 +316,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 2 Monster"
@@ -293,6 +324,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+1"
@@ -300,6 +332,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Undead Archer"
@@ -307,6 +340,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Undead Archer"
@@ -314,6 +348,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "5"
@@ -321,6 +356,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1"
@@ -339,6 +375,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Ghoul.png",
@@ -352,6 +389,7 @@
           "panels": [
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3 {loot}"
@@ -359,6 +397,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 2 Monster"
@@ -366,6 +405,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+1"
@@ -373,6 +413,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Ghoul"
@@ -380,6 +421,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Ghoul"
@@ -387,6 +429,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "5"
@@ -394,6 +437,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2"
@@ -412,6 +456,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Stone_Golem.png",
@@ -425,6 +470,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Blocks all exits {door}.\n(Players can only leave through {entrance})"
@@ -432,6 +478,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4 {loot}"
@@ -439,6 +486,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 3 Monster"
@@ -446,6 +494,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+0"
@@ -453,6 +502,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Stone Golem"
@@ -460,6 +510,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Stone Golem"
@@ -467,6 +518,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "7"
@@ -474,6 +526,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2"
@@ -492,6 +545,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Giant_Spider.png",
@@ -505,6 +559,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Players cannot pick-up loot in the same room as this monster."
@@ -512,6 +567,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3 {loot}"
@@ -519,6 +575,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 3 Monster"
@@ -526,6 +583,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+1"
@@ -533,6 +591,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Giant Spider"
@@ -540,6 +599,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Giant Spider"
@@ -547,6 +607,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4"
@@ -554,6 +615,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4"
@@ -572,6 +634,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Animated_Armor.png",
@@ -585,6 +648,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "You may use this monster's trophy as armor:\nWhile equipped, gives +2 DEF. "
@@ -592,6 +656,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2 {loot}"
@@ -599,6 +664,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 4 Monster"
@@ -606,6 +672,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+2"
@@ -613,6 +680,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Animated Armor"
@@ -620,6 +688,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Animated Armor"
@@ -627,6 +696,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "7"
@@ -634,6 +704,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1"
@@ -652,6 +723,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Tortured_Locksmith.png",
@@ -665,6 +737,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "When you slay this monster, you may steal a {key} from another player."
@@ -672,6 +745,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1 {loot}"
@@ -679,6 +753,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 5 Monster - Boss"
@@ -686,6 +761,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+1"
@@ -693,6 +769,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Tortured Locksmith"
@@ -700,6 +777,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Tortured Locksmith"
@@ -707,6 +785,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3"
@@ -714,6 +793,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "6"
@@ -732,6 +812,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Sphinx.png",
@@ -745,6 +826,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<i>(Put a key token on this card.)</i>"
@@ -752,6 +834,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Key {key}"
@@ -759,6 +842,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 5 Monster - Boss"
@@ -766,6 +850,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+2"
@@ -773,6 +858,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Sphinx"
@@ -780,6 +866,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Sphinx"
@@ -787,6 +874,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "5"
@@ -794,6 +882,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "5"
@@ -812,6 +901,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "When you slay this monster, move immediately into an adjacent room of your choice."
@@ -819,6 +909,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1 {loot}"
@@ -826,6 +917,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 1 Monster"
@@ -833,6 +925,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+1"
@@ -840,6 +933,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Phasing Construct"
@@ -847,6 +941,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Phasing Construct"
@@ -854,6 +949,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "3"
@@ -861,6 +957,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1"
@@ -879,6 +976,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "When you slay this monster, rotate your current room by one turn (60°) in any direction of your choice."
@@ -886,6 +984,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1 {loot}"
@@ -893,6 +992,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 1 Monster"
@@ -900,6 +1000,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+1"
@@ -907,6 +1008,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Spinning Construct"
@@ -914,6 +1016,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Spinning Construct"
@@ -921,6 +1024,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4"
@@ -928,6 +1032,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1"
@@ -946,6 +1051,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Door_Crab.png",
@@ -959,6 +1065,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Cannot attack or be attacked until all doors in this room are open."
@@ -966,6 +1073,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "4 {loot}"
@@ -973,6 +1081,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 2 Monster"
@@ -980,6 +1089,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+0"
@@ -987,6 +1097,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Door Crab"
@@ -994,6 +1105,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Door Crab"
@@ -1001,6 +1113,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "6"
@@ -1008,6 +1121,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1"
@@ -1026,6 +1140,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "When you slay this monster, teleport immediately into any other room of your choice."
@@ -1033,6 +1148,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1 {loot}"
@@ -1040,6 +1156,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 3 Monster"
@@ -1047,6 +1164,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+0"
@@ -1054,6 +1172,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Warpstone Golem"
@@ -1061,6 +1180,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Warpstone Golem"
@@ -1068,6 +1188,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "6"
@@ -1075,6 +1196,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "2"
@@ -1093,6 +1215,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4d090bab-2b8e-40c1-8137-d88b44f3ef20",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Stalwart_Goliath.png",
@@ -1106,6 +1229,7 @@
           "panels": [
             {
               "blueprint_panel_id": "52a1ec28-93a0-4356-9103-4bbf671559e2",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<i>(Put a key token on this card.)</i>"
@@ -1113,6 +1237,7 @@
             },
             {
               "blueprint_panel_id": "0791cdb9-aea8-4b73-adbc-bd6ec6873537",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Key {key}"
@@ -1120,6 +1245,7 @@
             },
             {
               "blueprint_panel_id": "b2bb4805-6ec2-4267-9147-e8b4007605d3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Level 5 Monster - Boss"
@@ -1127,6 +1253,7 @@
             },
             {
               "blueprint_panel_id": "91205904-d029-4351-af20-b002fd79e170",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+0"
@@ -1134,6 +1261,7 @@
             },
             {
               "blueprint_panel_id": "b749415b-ed78-40ba-9eb7-da2d938014b6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Stalwart Goliath"
@@ -1141,6 +1269,7 @@
             },
             {
               "blueprint_panel_id": "f95eb3e1-a410-4f09-8f56-d8cdb558b87e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Stalwart Goliath"
@@ -1148,6 +1277,7 @@
             },
             {
               "blueprint_panel_id": "7bff9e56-f459-4a17-9a48-61b9225785b9",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "9"
@@ -1155,6 +1285,7 @@
             },
             {
               "blueprint_panel_id": "57dc24e0-1b7d-46ce-b719-75476d6762a3",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1"

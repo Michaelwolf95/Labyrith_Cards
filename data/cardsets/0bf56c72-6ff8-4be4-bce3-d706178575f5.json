@@ -14,6 +14,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Health_Potion.png",
@@ -27,6 +28,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Restore +2 HP {HP}"
@@ -34,6 +36,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Potion"
@@ -41,6 +44,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Health Potion"
@@ -59,6 +63,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Strength_Potion.png",
@@ -72,6 +77,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Gain +2 ATK this turn."
@@ -79,6 +85,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Potion"
@@ -86,6 +93,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Strength Potion"
@@ -104,6 +112,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Insight_Potion.png",
@@ -117,6 +126,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Look at the top 3 cards of the loot deck. Put one on top and the rest on the bottom."
@@ -124,6 +134,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Potion"
@@ -131,6 +142,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Insight Potion"
@@ -149,6 +161,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Spiral_Crystal.png",
@@ -162,6 +175,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Rotate your current room or an adjacent room by one turn. (60°)"
@@ -169,6 +183,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Crystal"
@@ -176,6 +191,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Spiral Crystal"
@@ -194,6 +210,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Phase_Crystal.png",
@@ -207,6 +224,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Move into an adjacent room, ignoring walls."
@@ -214,6 +232,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Crystal"
@@ -221,6 +240,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Phase Crystal"
@@ -239,6 +259,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Labyrinth_Crystal.png",
@@ -252,6 +273,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Replace an unoccupied adjacent room with another one from the deck, with the entrance facing you.This counts as you opening the new room.\n\nShuffle the old room back into the deck."
@@ -259,6 +281,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Crystal"
@@ -266,6 +289,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Labyrinth Crystal"
@@ -284,6 +308,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Shift_Crystal.png",
@@ -297,6 +322,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Choose a room with only one connected doorway. Move it and attach the entrance to a closed door in the same room as you."
@@ -304,6 +330,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Crystal"
@@ -311,6 +338,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Shift Crystal"
@@ -329,6 +357,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Key_Fragment.png",
@@ -342,6 +371,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>Combine 2 Key Fragments</b>: Get a key. {Key}"
@@ -349,6 +379,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Artifact"
@@ -356,6 +387,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Key Fragment"
@@ -374,6 +406,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Thiefs_Amulet.png",
@@ -387,6 +420,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Steal a random card from another player's hand.\n\n(Can only use one of these per turn.)"
@@ -394,6 +428,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Artifact"
@@ -401,6 +436,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Thief's Amulet"
@@ -419,6 +455,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Magic_Top.png",
@@ -432,6 +469,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Swap positions with another player."
@@ -439,6 +477,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Artifact"
@@ -446,6 +485,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Magic Top"
@@ -464,6 +504,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Monster_Mover.png",
@@ -477,6 +518,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Choose any monster on the board. Move them to another room."
@@ -484,6 +526,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Artifact"
@@ -491,6 +534,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Monster Mover"
@@ -509,6 +553,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Ornate_Coffer.png",
@@ -522,6 +567,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Draw until you have 6 cards in your hand."
@@ -529,6 +575,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Artifact"
@@ -536,6 +583,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Ornate Coffer"
@@ -554,6 +602,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Flask_Coffer.png",
@@ -567,6 +616,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Draw until you have 4 cards in your hand."
@@ -574,6 +624,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Artifact, Potion"
@@ -581,6 +632,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Flask Coffer"
@@ -599,6 +651,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Crystal_Coffer.png",
@@ -612,6 +665,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": " <b>USE</b>: Draw until you have 4 cards in your hand."
@@ -619,6 +673,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Artifact, Crystal"
@@ -626,6 +681,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Crystal Coffer"
@@ -644,6 +700,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Sword.png",
@@ -657,6 +714,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+1 ATK"
@@ -664,6 +722,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Weapon"
@@ -671,6 +730,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Sword"
@@ -689,6 +749,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Berserkers_Axe.png",
@@ -702,6 +763,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "You gain +1 ATK for each time you attacked this turn.\n<i>(First attack is +1, second is +2, and so on.)</i>"
@@ -709,6 +771,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Weapon"
@@ -716,6 +779,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Berserker's Axe"
@@ -734,6 +798,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Calvary_Lance.png",
@@ -747,6 +812,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gain +1 ATK for each room time you've moved between rooms this turn.\nWhenever you slay a monster, you may move once for free."
@@ -754,6 +820,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Weapon"
@@ -761,6 +828,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Calvary Lance"
@@ -779,6 +847,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Archmages_Staff.png",
@@ -792,6 +861,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Using <i>Extra Effort</i> adds +2 damage to your roll, instead of +1."
@@ -799,6 +869,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Weapon"
@@ -806,6 +877,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Archmage's Staff"
@@ -824,6 +896,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Sack_Flail.png",
@@ -837,6 +910,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "You have +1 ATK for every 3 items in your hand."
@@ -844,6 +918,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Weapon"
@@ -851,6 +926,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Sack Flail"
@@ -869,6 +945,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Demon_Slayers_Bow.png",
@@ -882,6 +959,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "1 ATK\n+1 ATK against monsters level 3 and higher.\n+1 ATK against \"Boss\" monsters.\n"
@@ -889,6 +967,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Weapon"
@@ -896,6 +975,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Demon Slayer's Bow"
@@ -914,6 +994,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Chainmail.png",
@@ -927,6 +1008,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "+1 DEF"
@@ -934,6 +1016,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Armor"
@@ -941,6 +1024,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Chainmail"
@@ -959,6 +1043,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Swift_Boots.png",
@@ -972,6 +1057,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "You gain +1 action at the start of your turn.\n-1 DEF"
@@ -979,6 +1065,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Armor"
@@ -986,6 +1073,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Swift Boots"
@@ -1004,6 +1092,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Lucky_Cloak.png",
@@ -1017,6 +1106,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Whenever you use a <i>Pick-Up</i> action, roll a d4. On a 3 or 4, draw an extra loot card."
@@ -1024,6 +1114,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Armor"
@@ -1031,6 +1122,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Lucky Cloak"
@@ -1049,6 +1141,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Brutal_Gauntlets.png",
@@ -1062,6 +1155,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Whenever you slay a monster, gain +1 loot as a reward."
@@ -1069,6 +1163,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Armor"
@@ -1076,6 +1171,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Brutal Gauntlets"
@@ -1094,6 +1190,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Architects_Belt.png",
@@ -1107,6 +1204,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Whenever you open a door, look at the top 2 rooms of the room deck. Choose one, and put the other on the bottom of the deck."
@@ -1114,6 +1212,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Armor"
@@ -1121,6 +1220,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Architect's Belt"
@@ -1139,6 +1239,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Cowards_Trousers.png",
@@ -1152,6 +1253,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "While equipped, you may choose to ignore an encounter card that you trigger.\nIf you do, discard this."
@@ -1159,6 +1261,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Gear - Armor"
@@ -1166,6 +1269,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Coward's Trousers"
@@ -1184,6 +1288,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Speed_Potion.png",
@@ -1197,6 +1302,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Gain +2 Actions this turn.\n\n(Can only use one of these per turn.)"
@@ -1204,6 +1310,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Potion"
@@ -1211,6 +1318,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Speed Potion"
@@ -1229,6 +1337,7 @@
           "panels": [
             {
               "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
               "type": "image",
               "data": {
                 "uri": "%PROJECT%/Cards/Warp_Crystal.png",
@@ -1242,6 +1351,7 @@
           "panels": [
             {
               "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "<b>USE</b>: Teleport to a room that's exactly 2 spaces away.\n\n<i>(</i>"
@@ -1249,6 +1359,7 @@
             },
             {
               "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Crystal"
@@ -1256,6 +1367,7 @@
             },
             {
               "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Warp Crystal"
