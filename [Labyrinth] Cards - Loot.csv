@@ -1,0 +1,45 @@
+amount,Name,Type,Rarity,Content,Image_Path
+5,Health Potion,Potion,Common,<b>USE</b>: Restore +2 HP {HP},%PROJECT%/Cards/Health_Potion.png
+5,Speed Potion,Potion,Common,"<b>USE</b>: Gain +2 Actions this turn.
+
+(Can only use one of these per turn.)",%PROJECT%/Cards/Speed_Potion.png
+2,Strength Potion,Potion,Common,<b>USE</b>: Gain +2 ATK this turn.,%PROJECT%/Cards/Strength_Potion.png
+2,Insight Potion,Potion,Common,<b>USE</b>: Look at the top 3 cards of the loot deck. Put one on top and the rest on the bottom.,%PROJECT%/Cards/Insight_Potion.png
+5,Spiral Crystal,Crystal,Common,<b>USE</b>: Rotate your current room or an adjacent room by one turn. (60°),%PROJECT%/Cards/Spiral_Crystal.png
+4,Phase Crystal,Crystal,Common,"<b>USE</b>: Move into an adjacent room, ignoring walls.",%PROJECT%/Cards/Phase_Crystal.png
+3,Labyrinth Crystal,Crystal,Common,"<b>USE</b>: Replace an unoccupied adjacent room with another one from the deck, with the entrance facing you.This counts as you opening the new room.
+
+Shuffle the old room back into the deck.",%PROJECT%/Cards/Labyrinth_Crystal.png
+3,Shift Crystal,Crystal,Uncommon,<b>USE</b>: Choose a room with only one connected doorway. Move it and attach the entrance to a closed door in the same room as you.,%PROJECT%/Cards/Shift_Crystal.png
+3,Warp Crystal,Crystal,Rare,"<b>USE</b>: Teleport to a room that's exactly 2 spaces away.
+
+<i>(</i>",%PROJECT%/Cards/Warp_Crystal.png
+3,Key Fragment,Artifact,Rare,<b>Combine 2 Key Fragments</b>: Get a key. {Key},%PROJECT%/Cards/Key_Fragment.png
+3,Thief's Amulet,Artifact,Uncommon,"<b>USE</b>: Steal a random card from another player's hand.
+
+(Can only use one of these per turn.)",%PROJECT%/Cards/Thiefs_Amulet.png
+3,Magic Top,Artifact,Uncommon,<b>USE</b>: Swap positions with another player.,%PROJECT%/Cards/Magic_Top.png
+1,Monster Mover,Artifact,Rare,<b>USE</b>: Choose any monster on the board. Move them to another room.,%PROJECT%/Cards/Monster_Mover.png
+1,Ornate Coffer,Artifact,Rare,<b>USE</b>: Draw until you have 6 cards in your hand.,%PROJECT%/Cards/Ornate_Coffer.png
+1,Flask Coffer,"Artifact, Potion",Uncommon,<b>USE</b>: Draw until you have 4 cards in your hand.,%PROJECT%/Cards/Flask_Coffer.png
+1,Crystal Coffer,"Artifact, Crystal",Uncommon, <b>USE</b>: Draw until you have 4 cards in your hand.,%PROJECT%/Cards/Crystal_Coffer.png
+3,Sword,Gear - Weapon,Common,+1 ATK,%PROJECT%/Cards/Sword.png
+1,Berserker's Axe,Gear - Weapon,Rare,"You gain +1 ATK for each time you attacked this turn.
+<i>(First attack is +1, second is +2, and so on.)</i>",%PROJECT%/Cards/Berserkers_Axe.png
+1,Calvary Lance,Gear - Weapon,Rare,"Gain +1 ATK for each room time you've moved between rooms this turn.
+Whenever you slay a monster, you may move once for free.",%PROJECT%/Cards/Calvary_Lance.png
+1,Archmage's Staff,Gear - Weapon,Rare,"Using <i>Extra Effort</i> adds +2 damage to your roll, instead of +1.",%PROJECT%/Cards/Archmages_Staff.png
+1,Sack Flail,Gear - Weapon,Rare,You have +1 ATK for every 3 items in your hand.,%PROJECT%/Cards/Sack_Flail.png
+1,Demon Slayer's Bow,Gear - Weapon,Rare,"1 ATK
++1 ATK against monsters level 3 and higher.
++1 ATK against ""Boss"" monsters.
+",%PROJECT%/Cards/Demon_Slayers_Bow.png
+3,Chainmail,Gear - Armor,Common,+1 DEF,%PROJECT%/Cards/Chainmail.png
+1,Swift Boots,Gear - Armor,Rare,"You gain +1 action at the start of your turn.
+-1 DEF",%PROJECT%/Cards/Swift_Boots.png
+1,Lucky Cloak,Gear - Armor,Rare,"Whenever you use a <i>Pick-Up</i> action, roll a d4. On a 3 or 4, draw an extra loot card.",%PROJECT%/Cards/Lucky_Cloak.png
+1,Brutal Gauntlets,Gear - Armor,Rare,"Whenever you slay a monster, gain +1 loot as a reward.",%PROJECT%/Cards/Brutal_Gauntlets.png
+1,Architect's Belt,Gear - Armor,Rare,"Whenever you open a door, look at the top 2 rooms of the room deck. Choose one, and put the other on the bottom of the deck.",%PROJECT%/Cards/Architects_Belt.png
+1,Coward's Trousers,Gear - Armor,Rare,"While equipped, you may choose to ignore an encounter card that you trigger.
+If you do, discard this.",%PROJECT%/Cards/Cowards_Trousers.png
+61,,,,,

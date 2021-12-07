@@ -1,0 +1,85 @@
+{
+  "version": 2.12,
+  "variables": [
+    {
+      "code": "HP",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/Icon_Heart.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, 0",
+        "scale": "1, 1"
+      }
+    },
+    {
+      "code": "encounter",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/Icon_Encounter.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, 0",
+        "scale": "1, 1"
+      }
+    },
+    {
+      "code": "loot",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/Icon_Loot.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, -5",
+        "scale": "1, 1"
+      }
+    },
+    {
+      "code": "entrance",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/Icon_Entrance.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, 0",
+        "scale": "1, 1"
+      }
+    },
+    {
+      "code": "door",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/Icon_Door.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, 0",
+        "scale": "1, 1"
+      }
+    },
+    {
+      "code": "bomb",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/Icon_Bomb.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, -5",
+        "scale": "1, 1"
+      }
+    },
+    {
+      "code": "poison",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/Icon_Poison.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, 0",
+        "scale": "1, 1"
+      }
+    },
+    {
+      "code": "key",
+      "type": "image",
+      "data": {
+        "uri": "%PROJECT%/Icon_Key.png",
+        "tint": "#FFFFFFFF",
+        "offset": "0, -7",
+        "scale": "1.2, 1.2"
+      }
+    }
+  ]
+}

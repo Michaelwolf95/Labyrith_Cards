@@ -1,0 +1,21 @@
+amount,Name,Level,Creature Type,DEF,HP,ATK,Reward,Content,Type,Image_Path
+5,Skeleton,1,Monster,4,1,+0,2 {loot},<i>*Angry bone rattling noises*</i>,Level 1 Monster,%PROJECT%/Cards/Skeleton.png
+1,Cool Skeleton,1,Monster,4,1,+0,3 {loot},<i>*Cool bone rattling noises*</i>,Level 1 Monster,%PROJECT%/Cards/Cool_Skeleton.png
+3,Phasing Construct,1,Monster,3,1,+1,1 {loot},"When you slay this monster, move immediately into an adjacent room of your choice.",Level 1 Monster,
+1,Spinning Construct,1,Monster,4,1,+1,1 {loot},"When you slay this monster, rotate your current room by one turn (60°) in any direction of your choice.",Level 1 Monster,
+1,Injured Wretch,1,Monster,1,1,+0,<i>Nothing</i>,"Does not attack.
+<i>Barter</i> - Trade a Health Potion for 2 {loot}.
+
+(Leaves the dungeon after trading.)",Level 1 Monster,%PROJECT%/Cards/Injured_Wretch.png
+2,Undead Archer,2,Monster,5,1,+1,3 {loot},Attacks players who leave it's current room.,Level 2 Monster,%PROJECT%/Cards/Undead_Archer.png
+3,Ghoul,2,Monster,5,2,+1,3 {loot},,Level 2 Monster,%PROJECT%/Cards/Ghoul.png
+2,Door Crab,2,Monster,6,1,+0,4 {loot},Cannot attack or be attacked until all doors in this room are open.,Level 2 Monster,%PROJECT%/Cards/Door_Crab.png
+2,Stone Golem,3,Monster,7,2,+0,4 {loot},"Blocks all exits {door}.
+(Players can only leave through {entrance})",Level 3 Monster,%PROJECT%/Cards/Stone_Golem.png
+1,Warpstone Golem,3,Monster,6,2,+0,1 {loot},"When you slay this monster, teleport immediately into any other room of your choice.",Level 3 Monster,
+2,Giant Spider,3,Monster,4,4,+1,3 {loot},Players cannot pick-up loot in the same room as this monster.,Level 3 Monster,%PROJECT%/Cards/Giant_Spider.png
+1,Animated Armor,4,Monster,7,1,+2,2 {loot},"You may use this monster's trophy as armor:
+While equipped, gives +2 DEF. ",Level 4 Monster,%PROJECT%/Cards/Animated_Armor.png
+1,Tortured Locksmith,5,Monster - Boss,3,6,+1,1 {loot},"When you slay this monster, you may steal a {key} from another player.",Level 5 Monster - Boss,%PROJECT%/Cards/Tortured_Locksmith.png
+1,Sphinx,5,Monster - Boss,5,5,+2,Key {key},<i>(Put a key token on this card.)</i>,Level 5 Monster - Boss,%PROJECT%/Cards/Sphinx.png
+1,Stalwart Goliath,5,Monster - Boss,9,1,+0,Key {key},<i>(Put a key token on this card.)</i>,Level 5 Monster - Boss,%PROJECT%/Cards/Stalwart_Goliath.png

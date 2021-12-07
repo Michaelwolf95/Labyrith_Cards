@@ -1,0 +1,35 @@
+amount,Name,Type,Content,Image_Path,Notes
+2,Pitfall,Trap,"Discard a card
+-OR-
+Lose 1 HP
+
+Draw another {encounter}.",%PROJECT%/Cards/Pitfall.png,
+3,Tentacle,Trap,"You are pulled into this room.
+You cannot move for the rest of this turn.
+
+Draw another {encounter}.",%PROJECT%/Cards/Tentacle.png,
+3,Gust of Wind,Trap,"Pushes you back through  your current room's entrance ({entrance}).
+Does nothing if the entrance is blocked.
+
+Draw another {encounter}.",%PROJECT%/Cards/Gust_of_Wind.png,
+3,Shifting Walls R,Trap,"Rotate your current room clockwise by one turn (60°).
+
+Draw another {encounter}.",%PROJECT%/Cards/Shifting_Walls_R.png,
+3,Shifting Walls L,Trap,"Rotate your current room counter-clockwise by one turn (60°).
+Draw another {encounter}.",%PROJECT%/Cards/Shifting_Walls_L.png,
+2,Poison Gas,Trap,"Place a {poison} token in this room. Players who end their turn in this room lose -1 HP {HP}.
+
+Draw another {encounter}.",%PROJECT%/Cards/Poison_Gas.png,
+2,Land Mine,Trap,"Place a {bomb} token in this room. The next time a player enters this room, they lose -3 HP {HP}, and the {bomb} is removed.
+
+Draw another {encounter}.",%PROJECT%/Cards/Land_Mine.png,
+2,Fateful Fall,Trap,"If you have more than 5 cards, discard cards until you have 5.
+
+Draw another {encounter}.",%PROJECT%/Cards/Fateful_Fall.png,Holding onto a rope. Sink hole.
+1,Black Hole,Event,Move ALL players to the start room.,%PROJECT%/Cards/Black_Hole.png,
+1,Trash Friend,Event,Take any 2 loot cards from the discard pile.,%PROJECT%/Cards/Trash_Friend.png,
+1,Justice,Event,"The player with the fewest cards in their hand steals 2 random cards from the player with the most.
+
+Draw another {encounter}.",%PROJECT%/Cards/Justice.png,This breaks the rules with traps.
+1,The Fool,Event,"Return to the start room, and get 2 {loot}.",%PROJECT%/Cards/The_Fool.png,
+1,The Chariot,Event,Choose a room. Move directly to it.,%PROJECT%/Cards/The_Chariot.png,
