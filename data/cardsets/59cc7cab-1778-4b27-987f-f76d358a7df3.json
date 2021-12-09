@@ -1,59 +1,10 @@
 {
   "version": 2.12,
   "cardset_id": "59cc7cab-1778-4b27-987f-f76d358a7df3",
-  "name": "UNNAMED",
+  "name": "Events and Traps",
   "blueprint_id": "9783583b-5a95-4453-8d6d-77a2c87d04c3",
   "hint_order_index": 2,
   "cards": [
-    {
-      "card_id": "163e47a1-7715-42a0-84a3-8a652932dd60",
-      "amount": 3,
-      "front_layers": [
-        {
-          "blueprint_layer_id": "bfc2541c-6480-4edf-9a04-3d53d9fea5a6",
-          "panels": [
-            {
-              "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "uri": "%PROJECT%/Cards/Warp_Crystal.png",
-                "tint": "#FFFFFFFF"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "d47fac03-d011-4606-83ba-4d6951d3c1c8",
-          "panels": [
-            {
-              "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "<b>USE</b>: Teleport to a room that's exactly 2 spaces away.\n\n<i>(</i>"
-              }
-            },
-            {
-              "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Crystal"
-              }
-            },
-            {
-              "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Warp Crystal"
-              }
-            }
-          ]
-        }
-      ]
-    },
     {
       "card_id": "18e97f78-34f2-42d3-96ce-15ba44583dbd",
       "amount": 2,

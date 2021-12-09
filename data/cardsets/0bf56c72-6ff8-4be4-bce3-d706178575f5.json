@@ -1,7 +1,7 @@
 {
   "version": 2.12,
   "cardset_id": "0bf56c72-6ff8-4be4-bce3-d706178575f5",
-  "name": "UNNAMED",
+  "name": "Loot",
   "blueprint_id": "9783583b-5a95-4453-8d6d-77a2c87d04c3",
   "hint_order_index": 1,
   "cards": [
@@ -48,6 +48,55 @@
               "type": "text",
               "data": {
                 "text": "Health Potion"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "fd715ae3-468c-4c59-8def-ca3c866f36d0",
+      "amount": 5,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "bfc2541c-6480-4edf-9a04-3d53d9fea5a6",
+          "panels": [
+            {
+              "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Cards/Speed_Potion.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d47fac03-d011-4606-83ba-4d6951d3c1c8",
+          "panels": [
+            {
+              "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>USE</b>: Gain +2 Actions this turn.\n\n(Can only use one of these per turn.)"
+              }
+            },
+            {
+              "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Potion"
+              }
+            },
+            {
+              "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Speed Potion"
               }
             }
           ]
@@ -227,7 +276,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<b>USE</b>: Move into an adjacent room, ignoring walls."
+                "text": "<b>USE</b>: Move immediately into an adjacent room, ignoring walls."
               }
             },
             {
@@ -293,6 +342,55 @@
               "type": "text",
               "data": {
                 "text": "Labyrinth Crystal"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "8f4614ff-2da5-4319-80c8-f9d69fade82c",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "bfc2541c-6480-4edf-9a04-3d53d9fea5a6",
+          "panels": [
+            {
+              "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Cards/Warp_Crystal.png",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d47fac03-d011-4606-83ba-4d6951d3c1c8",
+          "panels": [
+            {
+              "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>USE</b>: Teleport to a room that's exactly 2 spaces away, in a straight line."
+              }
+            },
+            {
+              "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Crystal"
+              }
+            },
+            {
+              "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Warp Crystal"
               }
             }
           ]
@@ -374,7 +472,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<b>Combine 2 Key Fragments</b>: Get a key. {Key}"
+                "text": "<b>Combine 2 Key Fragments</b>: Get a key. {key}"
               }
             },
             {
@@ -1273,104 +1371,6 @@
               "type": "text",
               "data": {
                 "text": "Coward's Trousers"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "card_id": "fd715ae3-468c-4c59-8def-ca3c866f36d0",
-      "amount": 5,
-      "front_layers": [
-        {
-          "blueprint_layer_id": "bfc2541c-6480-4edf-9a04-3d53d9fea5a6",
-          "panels": [
-            {
-              "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "uri": "%PROJECT%/Cards/Speed_Potion.png",
-                "tint": "#FFFFFFFF"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "d47fac03-d011-4606-83ba-4d6951d3c1c8",
-          "panels": [
-            {
-              "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "<b>USE</b>: Gain +2 Actions this turn.\n\n(Can only use one of these per turn.)"
-              }
-            },
-            {
-              "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Potion"
-              }
-            },
-            {
-              "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Speed Potion"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "card_id": "8f4614ff-2da5-4319-80c8-f9d69fade82c",
-      "amount": 3,
-      "front_layers": [
-        {
-          "blueprint_layer_id": "bfc2541c-6480-4edf-9a04-3d53d9fea5a6",
-          "panels": [
-            {
-              "blueprint_panel_id": "634a4b86-fb91-4e09-9ff4-cc6f0079818b",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "uri": "%PROJECT%/Cards/Warp_Crystal.png",
-                "tint": "#FFFFFFFF"
-              }
-            }
-          ]
-        },
-        {
-          "blueprint_layer_id": "d47fac03-d011-4606-83ba-4d6951d3c1c8",
-          "panels": [
-            {
-              "blueprint_panel_id": "4afee2c3-0627-4eb0-98f2-1f40aba9097f",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "<b>USE</b>: Teleport to a room that's exactly 2 spaces away.\n\n<i>(</i>"
-              }
-            },
-            {
-              "blueprint_panel_id": "6ccea989-e46d-4586-91be-8d4db544e72e",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Crystal"
-              }
-            },
-            {
-              "blueprint_panel_id": "dad46a0d-6e84-43fd-8837-70fe380c72d1",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Warp Crystal"
               }
             }
           ]

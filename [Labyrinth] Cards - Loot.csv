@@ -3,18 +3,16 @@ amount,Name,Type,Rarity,Content,Image_Path
 5,Speed Potion,Potion,Common,"<b>USE</b>: Gain +2 Actions this turn.
 
 (Can only use one of these per turn.)",%PROJECT%/Cards/Speed_Potion.png
-2,Strength Potion,Potion,Common,<b>USE</b>: Gain +2 ATK this turn.,%PROJECT%/Cards/Strength_Potion.png
-2,Insight Potion,Potion,Common,<b>USE</b>: Look at the top 3 cards of the loot deck. Put one on top and the rest on the bottom.,%PROJECT%/Cards/Insight_Potion.png
+2,Strength Potion,Potion,Rare,<b>USE</b>: Gain +2 ATK this turn.,%PROJECT%/Cards/Strength_Potion.png
+2,Insight Potion,Potion,Rare,<b>USE</b>: Look at the top 3 cards of the loot deck. Put one on top and the rest on the bottom.,%PROJECT%/Cards/Insight_Potion.png
 5,Spiral Crystal,Crystal,Common,<b>USE</b>: Rotate your current room or an adjacent room by one turn. (60°),%PROJECT%/Cards/Spiral_Crystal.png
-4,Phase Crystal,Crystal,Common,"<b>USE</b>: Move into an adjacent room, ignoring walls.",%PROJECT%/Cards/Phase_Crystal.png
+4,Phase Crystal,Crystal,Common,"<b>USE</b>: Move immediately into an adjacent room, ignoring walls.",%PROJECT%/Cards/Phase_Crystal.png
 3,Labyrinth Crystal,Crystal,Common,"<b>USE</b>: Replace an unoccupied adjacent room with another one from the deck, with the entrance facing you.This counts as you opening the new room.
 
 Shuffle the old room back into the deck.",%PROJECT%/Cards/Labyrinth_Crystal.png
 3,Shift Crystal,Crystal,Uncommon,<b>USE</b>: Choose a room with only one connected doorway. Move it and attach the entrance to a closed door in the same room as you.,%PROJECT%/Cards/Shift_Crystal.png
-3,Warp Crystal,Crystal,Rare,"<b>USE</b>: Teleport to a room that's exactly 2 spaces away.
-
-<i>(</i>",%PROJECT%/Cards/Warp_Crystal.png
-3,Key Fragment,Artifact,Rare,<b>Combine 2 Key Fragments</b>: Get a key. {Key},%PROJECT%/Cards/Key_Fragment.png
+3,Warp Crystal,Crystal,Rare,"<b>USE</b>: Teleport to a room that's exactly 2 spaces away, in a straight line.",%PROJECT%/Cards/Warp_Crystal.png
+3,Key Fragment,Artifact,Rare,<b>Combine 2 Key Fragments</b>: Get a key. {key},%PROJECT%/Cards/Key_Fragment.png
 3,Thief's Amulet,Artifact,Uncommon,"<b>USE</b>: Steal a random card from another player's hand.
 
 (Can only use one of these per turn.)",%PROJECT%/Cards/Thiefs_Amulet.png
